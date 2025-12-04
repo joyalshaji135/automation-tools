@@ -1,0 +1,68 @@
+{"level":"info","message":"=== Facebook Automation Tool ===","service":"facebook-automation","timestamp":"2025-12-04 15:56:34"}
+{"level":"info","message":"Operating System: Windows","service":"facebook-automation","timestamp":"2025-12-04 15:56:34"}
+{"level":"info","message":"Checking Chrome installation...","service":"facebook-automation","timestamp":"2025-12-04 15:56:34"}
+{"level":"info","message":"Chrome found at: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","service":"facebook-automation","timestamp":"2025-12-04 15:56:34"}
+{"level":"info","message":"Initializing Facebook automation...","service":"facebook-automation","timestamp":"2025-12-04 15:56:34"}
+{"level":"info","message":"Starting Facebook automation...","service":"facebook-automation","timestamp":"2025-12-04 15:56:34"}
+{"level":"info","message":"Launching Chrome browser...","service":"facebook-automation","timestamp":"2025-12-04 15:56:34"}
+{"level":"info","message":"Chrome found at: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","service":"facebook-automation","timestamp":"2025-12-04 15:56:34"}
+{"level":"info","message":"✅ Chrome browser launched successfully","service":"facebook-automation","timestamp":"2025-12-04 15:56:35"}
+{"level":"info","message":"New page created","service":"facebook-automation","timestamp":"2025-12-04 15:56:36"}
+{"level":"info","message":"Navigating to: https://www.facebook.com","service":"facebook-automation","timestamp":"2025-12-04 15:56:36"}
+{"level":"info","message":"✅ Successfully navigated to https://www.facebook.com","service":"facebook-automation","timestamp":"2025-12-04 15:56:39"}
+{"level":"info","message":"Screenshot saved as: facebook-loaded.png","service":"facebook-automation","timestamp":"2025-12-04 15:56:43"}
+{"level":"info","message":"✅ Facebook automation completed successfully","service":"facebook-automation","timestamp":"2025-12-04 15:56:43"}
+{"level":"info","message":"Current URL: https://www.facebook.com/","service":"facebook-automation","timestamp":"2025-12-04 15:56:43"}
+{"level":"info","message":"Browser will remain open. Press Ctrl+C to exit.","service":"facebook-automation","timestamp":"2025-12-04 15:56:43"}
+{"level":"info","message":"✅ Automation completed successfully!","service":"facebook-automation","timestamp":"2025-12-04 15:56:43"}
+{"level":"info","message":"=== Facebook Automation Tool ===","service":"facebook-automation","timestamp":"2025-12-04 15:58:18"}
+{"level":"info","message":"Operating System: Windows","service":"facebook-automation","timestamp":"2025-12-04 15:58:18"}
+{"level":"info","message":"Checking Chrome installation...","service":"facebook-automation","timestamp":"2025-12-04 15:58:18"}
+{"level":"info","message":"Chrome found at: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","service":"facebook-automation","timestamp":"2025-12-04 15:58:18"}
+{"level":"info","message":"Initializing Facebook automation...","service":"facebook-automation","timestamp":"2025-12-04 15:58:18"}
+{"level":"info","message":"Starting Facebook automation...","service":"facebook-automation","timestamp":"2025-12-04 15:58:18"}
+{"level":"info","message":"Launching Chrome browser...","service":"facebook-automation","timestamp":"2025-12-04 15:58:18"}
+{"level":"info","message":"Chrome found at: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","service":"facebook-automation","timestamp":"2025-12-04 15:58:18"}
+{"level":"info","message":"✅ Chrome browser launched successfully","service":"facebook-automation","timestamp":"2025-12-04 15:58:19"}
+{"level":"info","message":"New page created","service":"facebook-automation","timestamp":"2025-12-04 15:58:20"}
+{"level":"info","message":"Navigating to: https://github.com/","service":"facebook-automation","timestamp":"2025-12-04 15:58:20"}
+{"level":"info","message":"✅ Successfully navigated to https://github.com/","service":"facebook-automation","timestamp":"2025-12-04 15:58:26"}
+{"level":"info","message":"Screenshot saved as: facebook-loaded.png","service":"facebook-automation","timestamp":"2025-12-04 15:58:32"}
+{"level":"info","message":"✅ Facebook automation completed successfully","service":"facebook-automation","timestamp":"2025-12-04 15:58:32"}
+{"level":"info","message":"Current URL: https://github.com/","service":"facebook-automation","timestamp":"2025-12-04 15:58:32"}
+{"level":"info","message":"Browser will remain open. Press Ctrl+C to exit.","service":"facebook-automation","timestamp":"2025-12-04 15:58:32"}
+{"level":"info","message":"✅ Automation completed successfully!","service":"facebook-automation","timestamp":"2025-12-04 15:58:32"}
+{"level":"info","message":"=== Facebook Automation Tool ===","service":"facebook-automation","timestamp":"2025-12-04 16:07:33"}
+{"level":"info","message":"Operating System: Windows","service":"facebook-automation","timestamp":"2025-12-04 16:07:33"}
+{"level":"info","message":"Checking Chrome installation...","service":"facebook-automation","timestamp":"2025-12-04 16:07:33"}
+{"level":"info","message":"Chrome found at: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","service":"facebook-automation","timestamp":"2025-12-04 16:07:33"}
+{"level":"info","message":"Initializing Facebook automation...","service":"facebook-automation","timestamp":"2025-12-04 16:07:33"}
+{"level":"info","message":"Starting Facebook automation...","service":"facebook-automation","timestamp":"2025-12-04 16:07:33"}
+{"level":"info","message":"Launching Chrome browser...","service":"facebook-automation","timestamp":"2025-12-04 16:07:33"}
+{"level":"info","message":"Chrome found at: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","service":"facebook-automation","timestamp":"2025-12-04 16:07:33"}
+{"level":"info","message":"✅ Chrome browser launched successfully","service":"facebook-automation","timestamp":"2025-12-04 16:07:34"}
+{"level":"info","message":"New page created","service":"facebook-automation","timestamp":"2025-12-04 16:07:35"}
+{"level":"info","message":"Navigating to: https://www.facebook.com/","service":"facebook-automation","timestamp":"2025-12-04 16:07:35"}
+{"level":"info","message":"✅ Successfully navigated to https://www.facebook.com/","service":"facebook-automation","timestamp":"2025-12-04 16:07:38"}
+{"level":"info","message":"Screenshot saved as: facebook-loaded.png","service":"facebook-automation","timestamp":"2025-12-04 16:07:41"}
+{"level":"info","message":"✅ Facebook automation completed successfully","service":"facebook-automation","timestamp":"2025-12-04 16:07:41"}
+{"level":"info","message":"Current URL: https://www.facebook.com/","service":"facebook-automation","timestamp":"2025-12-04 16:07:41"}
+{"level":"info","message":"Browser will remain open. Press Ctrl+C to exit.","service":"facebook-automation","timestamp":"2025-12-04 16:07:41"}
+{"level":"info","message":"✅ Automation completed successfully!","service":"facebook-automation","timestamp":"2025-12-04 16:07:41"}
+{"level":"info","message":"=== Facebook Automation Tool ===","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"Operating System: Windows","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"Checking Chrome installation...","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"Chrome found at: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"Initializing Facebook automation...","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"Starting Facebook automation...","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"Launching Chrome browser...","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"Chrome found at: C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"✅ Chrome browser launched successfully","service":"facebook-automation","timestamp":"2025-12-04 16:08:33"}
+{"level":"info","message":"New page created","service":"facebook-automation","timestamp":"2025-12-04 16:08:34"}
+{"level":"info","message":"Navigating to: https://www.facebook.com/","service":"facebook-automation","timestamp":"2025-12-04 16:08:34"}
+{"level":"info","message":"✅ Successfully navigated to https://www.facebook.com/","service":"facebook-automation","timestamp":"2025-12-04 16:08:38"}
+{"level":"info","message":"Screenshot saved as: facebook-loaded.png","service":"facebook-automation","timestamp":"2025-12-04 16:08:41"}
+{"level":"info","message":"✅ Facebook automation completed successfully","service":"facebook-automation","timestamp":"2025-12-04 16:08:41"}
+{"level":"info","message":"Current URL: https://www.facebook.com/","service":"facebook-automation","timestamp":"2025-12-04 16:08:41"}
+{"level":"info","message":"Browser will remain open. Press Ctrl+C to exit.","service":"facebook-automation","timestamp":"2025-12-04 16:08:41"}
+{"level":"info","message":"✅ Automation completed successfully!","service":"facebook-automation","timestamp":"2025-12-04 16:08:41"}

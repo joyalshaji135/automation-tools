@@ -1,0 +1,35 @@
+{
+  "name": "facebook-automation",
+  "version": "1.0.0",
+  "description": "Automation tool to open Chrome and navigate to Facebook",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.6.1",
+    "puppeteer": "^21.11.0",
+    "puppeteer-core": "^21.11.0",
+    "winston": "^3.18.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.25",
+    "@types/puppeteer": "^7.0.4",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "keywords": [
+    "automation",
+    "typescript",
+    "puppeteer",
+    "facebook"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
